@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a51d3aed-d317-42fb-8f5e-7cb79770bdd3" name="Changes" comment="" />
+    <list default="true" id="a51d3aed-d317-42fb-8f5e-7cb79770bdd3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -21,6 +27,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "javascript.nodejs.core.library.configured.version": "20.13.1",
     "javascript.nodejs.core.library.typings.version": "20.13.0",
     "node.js.detected.package.eslint": "true",
@@ -29,6 +36,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\kryst\\Desktop\\Studia\\Semestr 2\\Wybrane Środowiska Programowania - laboratorium\\nodejs\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,6 +57,7 @@
       <updated>1717862962606</updated>
       <workItem from="1717862963731" duration="53000" />
       <workItem from="1717863319746" duration="767000" />
+      <workItem from="1717864139484" duration="174000" />
     </task>
     <servers />
   </component>
